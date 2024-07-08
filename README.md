@@ -1,10 +1,10 @@
 This is a student management system that allows you to:
 
-Crud operations on students
-Upload and image for a student (AWS S3)
-Sms students (in microservice manner)
-View a student grade and average
-Filter students
+1.Crud operations on students
+2.Upload and image for a student (AWS S3)
+3.Sms students (in microservice manner)
+4.View a student grade and average
+5.Filter students
 etc..
 
 Tech Stack:
