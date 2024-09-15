@@ -1,4 +1,4 @@
-This is a student management system that allows you to:
+# This is a student management system that allows you to:
 
 1. Crud operations on students
 2. Upload and image for a student (AWS S3)
@@ -7,7 +7,7 @@ This is a student management system that allows you to:
 5. Filter students
 etc..
 
-Tech Stack:
+# Tech Stack:
 
 Backend: Spring Boot (Java)
 Database: Postgres
@@ -16,7 +16,7 @@ Cloud: AWS (EC2, S3)
 Security: JWT
 microservices: sms service
 
-Includes:
+# Includes:
 
 1. Pagination and sorting
 2. JWT authentication
